@@ -2,7 +2,6 @@
 
 Me chamo Sarah, sou uma estudante do segundo ano no curso de ciência da computação, sempre em busca de aprender e explorar novas áreas. Meu foco principal está em desenvolvimento web, mas estou sempre aberta a novos desafios e oportunidades de aprendizado. Sou apaixonada por transformar ideias em realidade! 
 Estou sempre buscando maneiras de melhorar minhas habilidades e contribuir para projetos que façam a diferença.
-
   
 ## Habilidades 🛠️
 
