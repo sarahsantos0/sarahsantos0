@@ -1,4 +1,4 @@
-# Hi there 👋
+# Olá 👋
 
 Me chamo Sarah Santos, uma entusiasta da tecnologia apaixonada por criar coisas incríveis. 
 
