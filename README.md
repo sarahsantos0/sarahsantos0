@@ -1,6 +1,6 @@
 # Hello 👋
 
-Me chamo Sarah Santos, uma entusiasta da tecnologia apaixonada por criar coisas incríveis. 
+Me chamo Sarah Santos! 
 
 Sou estudante do segundo ano no curso de ciência da computação, sempre em busca de aprender e explorar novas áreas. Meu foco principal está em desenvolvimento web, mas estou sempre aberta a novos desafios e oportunidades de aprendizado. 
 
