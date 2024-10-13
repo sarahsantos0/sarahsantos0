@@ -1,14 +1,17 @@
 # Hello 👋
 
-Me chamo Sarah Santos! 
+Me chamo Sarah! 
 
-Sou estudante do segundo ano no curso de ciência da computação, sempre em busca de aprender e explorar novas áreas. Meu foco principal está em desenvolvimento web, mas estou sempre aberta a novos desafios e oportunidades de aprendizado. 
+Sou estudante de Ciência da Computação, apaixonada por explorar novas tecnologias e aprimorar minhas habilidades continuamente. Com uma sólida base em HTML, CSS, PHP e Cibersegurança, minha trajetória acadêmica é marcada por uma busca constante por conhecimento e inovação.
 
-Minha jornada no universo da tecnologia é impulsionada pela curiosidade e pela determinação em enfrentar desafios complexos. Estou sempre buscando maneiras de melhorar minhas habilidades e contribuir para projetos que façam a diferença.
+Atualmente, sou estagiária de desenvolvimento, onde estou expandindo minhas competências técnicas e desenvolvendo soft skills essenciais para um ambiente colaborativo. No meu cotidiano, utilizo Playwright para desenvolver e executar testes automatizados end-to-end, com o foco em otimizar fluxos, melhorar a eficiência dos processos e garantir a entrega de resultados consistentes e de alta qualidade.
+
+Minha jornada no mundo da tecnologia é guiada pela curiosidade e pela determinação em superar desafios complexos. Estou sempre atenta às últimas tendências e inovações tecnológicas, buscando aplicar abordagens criativas e eficazes para a resolução de problemas.
+
 
 ## Stacks que eu uso 🛠
 
-<p align="left"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://playwright.dev/img/playwright-logo.svg" alt="playwright" width="40" height="40"/>
+<p align="left"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>  <img src="https://playwright.dev/img/playwright-logo.svg" alt="playwright" width="40" height="40"/>
 </p>
 
 ## Sociais 🌐
