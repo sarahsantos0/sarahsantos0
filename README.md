@@ -2,9 +2,9 @@
 
 Me chamo Sarah! 
 
-Sou estudante de Ciência da Computação, apaixonada por explorar novas tecnologias e aprimorar minhas habilidades continuamente. Com uma sólida base em HTML, CSS, PHP e Cibersegurança, minha trajetória acadêmica é marcada por uma busca constante por conhecimento e inovação.
+Sou estudante de Ciência da Computação, apaixonada por explorar novas tecnologias e aprimorar minhas habilidades continuamente. Com uma sólida base em HTML, CSS, JavaScript e Cibersegurança, minha trajetória acadêmica é marcada por uma busca constante por conhecimento e inovação.
 
-Atualmente, sou estagiária de desenvolvimento, onde estou expandindo minhas competências técnicas e desenvolvendo soft skills essenciais para um ambiente colaborativo. No meu cotidiano, utilizo Playwright para desenvolver e executar testes automatizados end-to-end, com o foco em otimizar fluxos, melhorar a eficiência dos processos e garantir a entrega de resultados consistentes e de alta qualidade.
+Atualmente, expandindo minhas competências técnicas e desenvolvendo soft skills essenciais para um ambiente colaborativo. No meu cotidiano, utilizo Playwright para desenvolver e executar testes automatizados end-to-end, com o foco em otimizar fluxos, melhorar a eficiência dos processos e garantir a entrega de resultados consistentes e de alta qualidade.
 
 Minha jornada no mundo da tecnologia é guiada pela curiosidade e pela determinação em superar desafios complexos. Estou sempre atenta às últimas tendências e inovações tecnológicas, buscando aplicar abordagens criativas e eficazes para a resolução de problemas.
 
