@@ -2,12 +2,13 @@
 
 Me chamo Sarah! 
 
-Sou estudante de Ciência da Computação, apaixonada por explorar novas tecnologias e aprimorar minhas habilidades continuamente. Com uma sólida base em HTML, CSS, JavaScript e Cibersegurança, minha trajetória acadêmica é marcada por uma busca constante por conhecimento e inovação.
+Sou estudante de Ciência da Computação, apaixonada por tecnologia, desafios e aprendizado contínuo. Atuei como estagiária de desenvolvimento na Philips, onde tive a oportunidade de trabalhar com Java, JavaScript, PL/SQL e automação de testes com Playwright. Uma experiência incrível que me fez crescer muito, tanto tecnicamente quanto pessoalmente.
 
-Atualmente, expandindo minhas competências técnicas e desenvolvendo soft skills essenciais para um ambiente colaborativo. No meu cotidiano, utilizo Playwright para desenvolver e executar testes automatizados end-to-end, com o foco em otimizar fluxos, melhorar a eficiência dos processos e garantir a entrega de resultados consistentes e de alta qualidade.
+Atualmente, estou aprendendo C# e me aprofundando em desenvolvimento backend e arquitetura de software, áreas que me despertam grande interesse. Também sou entusiasta de segurança cibernética e estou cursando uma certificação em Inteligência Artificial com Python pela Harvard via edX, explorando IA de forma prática e aplicada.
 
-Minha jornada no mundo da tecnologia é guiada pela curiosidade e pela determinação em superar desafios complexos. Estou sempre atenta às últimas tendências e inovações tecnológicas, buscando aplicar abordagens criativas e eficazes para a resolução de problemas.
+Concluí certificações do MIT (em programação com Python) e do Google (em segurança cibernética), e estou sempre buscando formas de evoluir e aplicar esses conhecimentos em projetos reais.
 
+Gosto de ambientes colaborativos, onde posso trocar ideias, aprender com outras pessoas e construir soluções que realmente façam a diferença.
 
 ## Stacks que eu uso 🛠
 
