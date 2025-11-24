@@ -4,7 +4,7 @@ Me chamo Sarah!
 
 Sou estudante de Ciência da Computação, apaixonada por tecnologia, desafios e aprendizado contínuo. Atuei como estagiária de desenvolvimento na Philips, onde tive a oportunidade de trabalhar com Java, JavaScript, PL/SQL e automação de testes com Playwright. Uma experiência incrível que me fez crescer muito, tanto tecnicamente quanto pessoalmente.
 
-Atualmente, estou aprofundando em desenvolvimento backend e machine learning, áreas que me despertam grande interesse. Também sou entusiasta de segurança cibernética e estou cursando uma certificação em Inteligência Artificial com Python pela Harvard via edX, explorando IA de forma prática e aplicada.
+Atualmente, estou me aprofundando em desenvolvimento backend e machine learning, áreas que me despertam grande interesse. Também sou entusiasta de segurança cibernética e estou cursando uma certificação em Inteligência Artificial com Python pela Harvard via edX, explorando IA de forma prática e aplicada.
 
 Concluí certificações do MIT (em programação com Python) e do Google (em segurança cibernética), e estou sempre buscando formas de evoluir e aplicar esses conhecimentos em projetos reais.
 
