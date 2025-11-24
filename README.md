@@ -26,8 +26,17 @@ Gosto de ambientes colaborativos, onde posso trocar ideias, aprender com outras 
 ## Sociais 🌐
 
 <div style="display: flex; gap: 10px; align-items: center;">
-  
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sarah-santos-1977b5279/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sarah-santos-1977b5279/" height="30" width="40"/></a>
+
+<a href="https://www.linkedin.com/in/sarah-santos-1977b5279/" target="_blank">
+  <img 
+    align="center" 
+    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+    alt="LinkedIn" 
+    height="30" 
+    width="40"
+  />
+</a>
 
 </div>
+
 
