@@ -29,14 +29,14 @@ Gosto de ambientes colaborativos, onde posso trocar ideias, aprender com outras 
 
 <a href="https://www.linkedin.com/in/sarah-santos-1977b5279/" target="_blank">
   <img 
-    align="center" 
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-    alt="LinkedIn" 
-    height="30" 
-    width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+    alt="LinkedIn"
+    height="30"
+    width="30"
   />
 </a>
 
 </div>
+
 
 
