@@ -6,7 +6,7 @@ Sou estudante de Ciência da Computação, apaixonada por tecnologia, desafios e
 
 Atualmente, estou me aprofundando em desenvolvimento backend e machine learning, áreas que me despertam grande interesse. Também sou entusiasta de segurança cibernética e estou cursando uma certificação em Inteligência Artificial com Python pela Harvard via edX, explorando IA de forma prática e aplicada.
 
-Concluí certificações do MIT (em programação com Python) e do Google (em segurança cibernética), e estou sempre buscando formas de evoluir e aplicar esses conhecimentos em projetos reais.
+Concluí certificações oferecidas pelo MIT (em programação com Python) e pelo Google (em segurança cibernética) por meio das plataformas edX e Coursera. Estou sempre buscando formas de evoluir e aplicar esses conhecimentos em projetos reais.
 
 Gosto de ambientes colaborativos, onde posso trocar ideias, aprender com outras pessoas e construir soluções que realmente façam a diferença.
 
